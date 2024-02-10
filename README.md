@@ -7,18 +7,23 @@ RNGCommands is developed by Valtsu0 and is unaffiliated with BlankMediaGames.
 
 ### rng
 By default gives a number between 1 and 15. Upper and lower bounds can be changed by giving arguments.
+
 `/rng 4 13`
 
 ### coinflip
 Flips a coin.
+
 `/coinlfip`
 
 ### pirate
 Gives a random duel option.
+
 `/pirate`
 
 ### choose
 Gives back a random argument.
+
 `/choose 1 5 13`
+
 
 NOTE: This repository is licensed under the GNU General Public License v3.0. Learn more about what this means [here](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3).
