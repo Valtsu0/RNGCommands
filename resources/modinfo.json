@@ -1,0 +1,13 @@
+{
+    "HarmonyId": "valtsu0.rngcommands",
+    "DisplayName": "RNG Commands",
+    "Authors": [
+      "Valtsu0"
+    ],
+    "Description": "No need to open your browser.",
+    "Version": "1.0.0",
+    "RequiredMods": [
+      "voidbehemoth.commandlib"
+    ],
+    "Settings": {}
+}
