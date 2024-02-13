@@ -13,7 +13,7 @@ By default gives a number between 1 and 15. Upper and lower bounds can be change
 ### coinflip
 Flips a coin.
 
-`/coinlfip`
+`/coinflip`
 
 ### pirate
 Gives a random duel option.
